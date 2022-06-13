@@ -1,4 +1,4 @@
-<h1 align="center">Online Sorting</h1>
+<a href="https://thesurojit-das.github.io/Online-Sorting/"><h1 align="center">Online Sorting</h1></a>
 
 
 <!-- ![image](https://user-images.githubusercontent.com/81943886/172404267-ee3b22b1-ff82-42c7-a2cd-0c42e8e3c1c6.png) -->
